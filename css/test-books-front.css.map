@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AACC,yBAAa;EACZ,UAAU,EAAE,MAAM;AAGnB,2BAAe;EACd,MAAM,EAAE,MAAM;EACd,OAAO,EAAE,KAAK;;AAKf,mCAAY;EACX,OAAO,EAAE,IAAI;EAEb,kDAAe;IACd,OAAO,EAAE,KAAK;IACd,MAAM,EAAE,WAAW;;AAMrB,2BAAW;EACV,OAAO,EAAE,IAAI",
+"sources": ["test-books-front.scss"],
+"names": [],
+"file": "test-books-front.css"
+}

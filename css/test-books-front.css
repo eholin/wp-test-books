@@ -1,0 +1,16 @@
+.single-book .entry-title {
+  text-align: center; }
+.single-book .wp-post-image {
+  margin: 0 auto;
+  display: block; }
+
+.post-type-archive-book .book-title {
+  display: flex; }
+  .post-type-archive-book .book-title .wp-post-image {
+    display: block;
+    margin: 0 0.5em 0 0; }
+
+.books-shortcode .text-next {
+  display: none; }
+
+/*# sourceMappingURL=test-books-front.css.map */

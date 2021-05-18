@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AACC,kBAAS;EACR,OAAO,EAAE,KAAK;EACd,MAAM,EAAE,SAAS;AAGlB,qBAAY;EACX,OAAO,EAAE,KAAK;EACd,MAAM,EAAE,SAAS;EACjB,MAAM,EAAE,GAAG;EACX,KAAK,EAAE,IAAI",
+"sources": ["test-books-admin.scss"],
+"names": [],
+"file": "test-books-admin.css"
+}

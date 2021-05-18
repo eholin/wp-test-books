@@ -1,0 +1,13 @@
+.test-books {
+	&__input {
+		display: block;
+		margin: 0.5em 0 0;
+	}
+
+	&__textarea {
+		display: block;
+		margin: 0.5em 0 0;
+		height: 4em;
+		width: 100%;
+	}
+}

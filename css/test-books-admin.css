@@ -1,0 +1,10 @@
+.test-books__input {
+  display: block;
+  margin: 0.5em 0 0; }
+.test-books__textarea {
+  display: block;
+  margin: 0.5em 0 0;
+  height: 4em;
+  width: 100%; }
+
+/*# sourceMappingURL=test-books-admin.css.map */
